@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+*.pyc
+.DS_Store
+venv
+venv_pycharm
+.env
+.idea
+.vscode/settings.json
