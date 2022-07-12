@@ -10,11 +10,9 @@ First, clone the git repo, then create a virtual environment for installing depe
 Feel free to use conda or any other environment manager of your choice.
 
 ```
-
 git clone https://github.com/amrohendawi/BERT-multiapp-PoC.git
 cd BERT-multiapp-PoC
 python -m venv venv
-
 ```
 
 Activate the environment and install the requirements with pip
@@ -22,15 +20,12 @@ Activate the environment and install the requirements with pip
 ```
 source venv/bin/activate
 pip install -r requirements.txt
-
 ```
 
 Run the app
 
 ```
-
 python -m streamlit run app.py
-
 ```
 
 ## About the app
